@@ -1,2 +1,2 @@
-# -Advanced-SQL---Kaggle
+# -Pandas---Kaggle
 Jupiter Notebooks from Kaggle
